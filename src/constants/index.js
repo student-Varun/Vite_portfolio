@@ -154,7 +154,7 @@ export const socialLinks = [
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/varun-kumar-trikha',
+        link: 'https://www.linkedin.com/in/varun-kumar-trikha-9b2893321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
     }
 ];
 
