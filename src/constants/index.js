@@ -114,7 +114,7 @@ export const experiences = [
     {
         title: "Software Associate Engineer",
         company_name: "SecureGen",
-        icon: shopify,
+        
         iconBg: "#b7e4c7",
         date: "Oct 2024 - Present",
         points: [
@@ -129,7 +129,7 @@ export const experiences = [
     {
         title: "Full Stack Engineer",
         company_name: "Stello tech",
-        icon: shopify,
+    
         iconBg: "#b7e4c7",
         date: "Oct 2024 - Present",
         points: [
