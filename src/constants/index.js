@@ -110,6 +110,37 @@ export const skills = [
 ];
 
 export const experiences = [
+
+    {
+        title: "Software Associate Engineer",
+        company_name: "SecureGen",
+        icon: shopify,
+        iconBg: "#b7e4c7",
+        date: "Oct 2024 - Present",
+        points: [
+            "Developing and maintaining Software applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+   
+
+    {
+        title: "Full Stack Engineer",
+        company_name: "Stello tech",
+        icon: shopify,
+        iconBg: "#b7e4c7",
+        date: "Oct 2024 - Present",
+        points: [
+            "Developing and maintaining web applications using React.js , Redux and other related technologies.",
+            "Also resposible for developing the complete requirement of the client ",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+   
+
     {
         title: "IT DEVELOPER",
         company_name: "To Let Globe",
@@ -137,6 +168,7 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
+
    
 ];
 
